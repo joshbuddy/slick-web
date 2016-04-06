@@ -1,0 +1,29 @@
+{
+  "undef": true,
+  "unused": "vars",
+  "asi": true,
+  "expr": true,
+  "globals": {
+    "window": false,
+    "Buffer": false,
+    "localStorage": false,
+    "require": false,
+    "process": false,
+    "module": false,
+    "exports": false,
+    "console": false,
+    "document": false,
+    "setTimeout": false,
+    "setInterval": false,
+    "clearTimeout": false,
+    "clearInterval": false,
+    "__sourceMap": false,
+    "_": false,
+    "Slick": false,
+    "describe": false,
+    "it": false,
+    "beforeEach": false,
+    "assert": false
+  }
+}
+
